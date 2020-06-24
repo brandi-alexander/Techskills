@@ -1,0 +1,5 @@
+name = input('Enter a name: ')
+body = input('Enter a body part: ')
+fluid = input('Enter a type of fluid: ')
+substance = input('Enter a type of substance: ')
+print(name + ' is sick with the ' + body + ' flu. Drink more ' + fluid + ' and take ' + substance + ' as needed.')
